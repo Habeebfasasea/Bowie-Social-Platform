@@ -2,6 +2,7 @@
 Bowie Social Platform is a proposed Bowie State University software solution that allows the university departments share informational posts across social media platforms. This project was built with Laravel and it also uses a package called "jorenvanhocht/laravel-share" to share posts by departments.
 
 ## Basic Functionalities
+* There is an Admins Dashboard(majorly controlled by the Head department)
 * There is a Head Department that approves the creation of new departments.
 * The Head department is also known as the Relations Department.
 * The Head department can approve or reject informational posts by the existing department.
