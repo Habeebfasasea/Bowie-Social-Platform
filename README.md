@@ -1,6 +1,12 @@
 # PHP-Login-and-Registration-Project
 Bowie Social Platform is a proposed Bowie State University software solution that allows the university departments share informational posts across social media platforms. This project was built with Laravel and it also uses a package called "jorenvanhocht/laravel-share" to share posts by departments.
 
+There is a Head Department that approves the creation of new departments.
+The Head department is also known as the Relations Department.
+The Head department approves informational posts by the existing department.
+The Head department can also delete/remove an existing department.
+Only posts approved by the head department can be shared across Social media platforms.
+
 # Usage
 ## Database Setup
 This web application uses MySQL database.
