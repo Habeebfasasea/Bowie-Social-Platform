@@ -1,4 +1,4 @@
-# PHP-Login-and-Registration-Project
+# Bowie Social Platform
 Bowie Social Platform is a proposed Bowie State University software solution that allows the university departments share informational posts across social media platforms. This project was built with Laravel and it also uses a package called "jorenvanhocht/laravel-share" to share posts by departments.
 
 ## Basic Functionalities
