@@ -9,6 +9,7 @@ To use MySQL database, make sure you install it, setup a database and then add y
 
 ## Migrations
 To create all the nessesary tables and columns, run the following command in Your Command Line Interface
+
     php artisan migrate
 
 # Author
